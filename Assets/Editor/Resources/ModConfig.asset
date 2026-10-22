@@ -20,6 +20,6 @@ MonoBehaviour:
     at https://steamcommunity.com/sharedfiles/filedetails/?id=2441652471\r\n\r\nModule
     originally by Blananas2\r\nModule reuploaded and reprogrammed by tandyCake\r\nmoduleID:
     impostor\r\nManual can be found at ktane.timwi.de"
-  version: 3.4.2
+  version: 3.4.3
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 5f38fe44c806b0e4e868a6a4c1d636ed, type: 3}

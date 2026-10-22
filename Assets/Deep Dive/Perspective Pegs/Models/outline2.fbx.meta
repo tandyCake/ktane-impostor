@@ -1,78 +1,27 @@
 fileFormatVersion: 2
-guid: 600e35d0fe41b5249bcea3c25708e702
+guid: 01f3c7ddaeba3a34283f41e9922e5e6b
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: A
-    100002: A_sharp
-    100004: B
-    100006: C
-    100008: C_sharp
-    100010: Component_PuzzleBackground
-    100012: D
-    100014: D_sharp
-    100016: E
-    100018: F
-    100020: F_sharp
-    100022: G
-    100024: G_sharp
-    100026: //RootNode
-    400000: A
-    400002: A_sharp
-    400004: B
-    400006: C
-    400008: C_sharp
-    400010: Component_PuzzleBackground
-    400012: D
-    400014: D_sharp
-    400016: E
-    400018: F
-    400020: F_sharp
-    400022: G
-    400024: G_sharp
-    400026: //RootNode
-    2100000: Component_PuzzleBack_mat
-    2100002: WhiteKey
-    2100004: BlackKey
-    2300000: A
-    2300002: A_sharp
-    2300004: B
-    2300006: C
-    2300008: C_sharp
-    2300010: Component_PuzzleBackground
-    2300012: D
-    2300014: D_sharp
-    2300016: E
-    2300018: F
-    2300020: F_sharp
-    2300022: G
-    2300024: G_sharp
-    3300000: A
-    3300002: A_sharp
-    3300004: B
-    3300006: C
-    3300008: C_sharp
-    3300010: Component_PuzzleBackground
-    3300012: D
-    3300014: D_sharp
-    3300016: E
-    3300018: F
-    3300020: F_sharp
-    3300022: G
-    3300024: G_sharp
-    4300000: Component_PuzzleBackground
-    4300002: B
-    4300004: E
-    4300006: A_sharp
-    4300008: A
-    4300010: G_sharp
-    4300012: G
-    4300014: F_sharp
-    4300016: F
-    4300018: D_sharp
-    4300020: D
-    4300022: C_sharp
-    4300024: C
+    100000: Camera
+    100002: Cube
+    100004: Lamp
+    100006: //RootNode
+    100008: Outline
+    400000: Camera
+    400002: Cube
+    400004: Lamp
+    400006: //RootNode
+    400008: Outline
+    2000000: Camera
+    2100000: Material
+    2300000: Cube
+    2300002: Outline
+    3300000: Cube
+    3300002: Outline
+    4300000: Cube
+    4300002: Outline
+    10800000: Lamp
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -122,7 +71,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

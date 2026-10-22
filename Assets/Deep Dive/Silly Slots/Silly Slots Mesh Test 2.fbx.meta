@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 15eea7e3eb70efb4680c3d2793db4680
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Component_PuzzleBackground
+    100004: LED
+    100006: LeverBase
+    100008: LeverEnd
+    100010: LeverPivot
+    100012: LeverShaft
+    100014: Light
+    100016: //RootNode
+    100018: Slot01
+    100020: Slot02
+    100022: Slot03
+    100024: SlotsCase
+    400000: Camera
+    400002: Component_PuzzleBackground
+    400004: LED
+    400006: LeverBase
+    400008: LeverEnd
+    400010: LeverPivot
+    400012: LeverShaft
+    400014: Light
+    400016: //RootNode
+    400018: Slot01
+    400020: Slot02
+    400022: Slot03
+    400024: SlotsCase
+    2000000: Camera
+    2100000: Component_PuzzleBack_mat
+    2100002: No Name
+    2100004: Material.002
+    2100006: Material.003
+    2300000: Component_PuzzleBackground
+    2300002: LED
+    2300004: LeverBase
+    2300006: LeverEnd
+    2300008: LeverPivot
+    2300010: LeverShaft
+    2300012: Slot01
+    2300014: Slot02
+    2300016: Slot03
+    2300018: SlotsCase
+    3300000: Component_PuzzleBackground
+    3300002: LED
+    3300004: LeverBase
+    3300006: LeverEnd
+    3300008: LeverPivot
+    3300010: LeverShaft
+    3300012: Slot01
+    3300014: Slot02
+    3300016: Slot03
+    3300018: SlotsCase
+    4300000: Component_PuzzleBackground
+    4300002: LED
+    4300004: LeverBase
+    4300006: LeverPivot
+    4300008: LeverShaft
+    4300010: LeverEnd
+    4300012: Slot01
+    4300014: SlotsCase
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
